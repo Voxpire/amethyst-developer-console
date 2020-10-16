@@ -10,7 +10,6 @@ edition = "2018"
 amethyst = "0.15.3"
 
 [features]
-default = ["metal"]
 empty = ["amethyst/empty"]
 metal = ["amethyst/metal"]
 vulkan = ["amethyst/vulkan"]
